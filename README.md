@@ -8,3 +8,4 @@ As in other weeks, we have colab notebooks to guide you through implementing the
 https://colab.research.google.com/drive/1DjX3JYLL6p_XGXlnwZqioTSVsv43QzeJ?usp=sharing
 
 ### Face detection and an introduction to OpenCV
+https://colab.research.google.com/drive/1WWVsr_a7lrikVoElVWDs7SGhtQ0ygYIc?usp=sharing
